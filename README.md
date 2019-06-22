@@ -1,6 +1,7 @@
 # YouTube Filter Model 
  Computer Vision model to ﬂag unsafe YouTube channels (Alcohol) .
 Building a CNN(Resnet50) to flag videos containing Alcoholic content.
+
 Divided into 4 parts:-
 1) DATA COLLECTION
     Downloaded data through Imagenet(download_imagenet.ipynb), Google download api(download_google.ipynb), Youtube video frames(download and extract frames.ipynb).
